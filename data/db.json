@@ -1,0 +1,35 @@
+{
+    "drinks" : [
+        {
+            "id": 1,
+            "name": "Brewed Coffee"
+        },
+        {
+            "id": 2,
+            "name": "Iced Coffee"
+        },
+        {
+            "id": 3,
+            "name": "Cappuccino"
+        },
+        {
+            "id": 4,
+            "name": "Latte"
+        },
+        {
+            "id": 5,
+            "name": "Cold Brew"
+        }
+    ],
+
+    "ingredients" : [
+        {
+            "id": 1,
+            "name": "ice"
+        },
+        {
+            "id": 2,
+            "name": ""
+        }
+    ]
+}
