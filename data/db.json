@@ -2,34 +2,46 @@
     "drinks" : [
         {
             "id": 1,
-            "name": "Brewed Coffee"
+            "name": "Brewed Coffee",
+            "image": "https://coffeeespresso.com/wp-content/uploads/2018/01/Can-You-Brew-Coffee-Twice.jpeg"
         },
         {
             "id": 2,
-            "name": "Iced Coffee"
+            "name": "Iced Coffee",
+            "image": "https://vaya.in/recipes/wp-content/uploads/2019/10/Coconut-water-iced-coffee.jpg"
         },
         {
             "id": 3,
-            "name": "Cappuccino"
+            "name": "Cappuccino",
+            "image": "https://merriam-webster.com/assets/mw/images/article/art-wap-article-main/cappuccino-2029-e80b7c6d318c7862df2c4c8623a11f99@1x.jpg"
         },
         {
             "id": 4,
-            "name": "Latte"
+            "name": "Latte",
+            "image": "https://coffeeatthree.com/wp-content/uploads/latte-1-500x500.jpg"
         },
         {
             "id": 5,
-            "name": "Cold Brew"
+            "name": "Cold Brew",
+            "image": "https://cdn.shopify.com/s/files/1/0319/0764/3436/products/cold-brew-iced-coffee.png?v=1597269387"
         }
     ],
 
     "ingredients" : [
         {
             "id": 1,
-            "name": "ice"
+            "name": "ice",
+            "image": ""
         },
         {
             "id": 2,
-            "name": ""
+            "name": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "",
+            "image": ""
         }
     ]
 }
